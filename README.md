@@ -4,3 +4,7 @@
 2. Pre-processing work can be carried out
 3. Data can be indexed inverted
 4. Provide retrieval services in the form of the Web
+
+2021 Information Retrieval assignment in DLUT
+
+Lw HU

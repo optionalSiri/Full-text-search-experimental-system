@@ -1,6 +1,6 @@
 # Full-text-search-experimental-system
 
-A certain number of web pages can be crawled
-Pre-processing work can be carried out
-Data can be indexed inverted
-Provide retrieval services in the form of the Web
+1. A certain number of web pages can be crawled
+2. Pre-processing work can be carried out
+3. Data can be indexed inverted
+4. Provide retrieval services in the form of the Web
